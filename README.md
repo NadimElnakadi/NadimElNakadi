@@ -12,7 +12,7 @@
 |  Sexe   |  Homme   |
 |couleur préférée| Rouge|
 |Nourriture préférées| Sushis|
-|Ananas sur la pizzas?| <ul><li>[ ] Oui; [ ] Non; [X] peu importe</li><ul>|
+|Ananas sur la pizzas?| <ul><li>[ ] Oui</li></ul>; <ul><li>[ ] Non</li></ul>; <ul><li>[X] peu importe</li><ul>|
 
 ## Passe-temps: 
 * Sport de raquettes:
