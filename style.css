@@ -1,0 +1,55 @@
+q{
+    font-style: italic;
+    font-size: 50px;
+    color: red;
+}
+img{
+    height: 500px;
+    border-left: 30px;
+    border-right: 30px;
+    border-bottom: 30px;
+    border-top: 30px;
+    margin: auto;
+    display: flex;
+    position: relative;
+}
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+p{
+    color: brown;
+}
+
+h1{
+    font-size: 60px;
+
+}
+ul{
+    display: inline-block;
+    margin: auto;
+    text-align: left;
+}
+
+table{
+    margin: auto;
+    border-style: dotted;
+    border-color: red;
+    border-width: 3px;
+}
+
+th{
+    border-width: 2px;
+    border-style: solid;
+    border-color: purple;
+}
+
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+li{
+    color: brown;
+}
